@@ -1,3 +1,8 @@
+[![Python application test with Github Actions](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml/badge.svg)](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml)
+
+
+
+
 # Python-FastApi-AWS
 This is a repository of my new Project where i will be working with Python , FastApi , AWS, and other DevOps Tool
 
