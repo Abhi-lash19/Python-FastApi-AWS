@@ -13,4 +13,5 @@ This is a repository of my new Project where i will be working with Python , Fas
 4. Setup Continuous Integration, i.e. check code for issues like lint errors
 
 ![Lint Build Successful](image.png)
-5. Build cli using Python Fire library  ./cli-fire.py --help to test logic
+
+5. Build cli using Python Fire library  `./cli-fire.py wiki --help` to test logic example `./cli-fire.py wiki --length 10`
