@@ -12,5 +12,5 @@ This is a repository of my new Project where i will be working with Python , Fas
 3. Populate `Makefile`
 4. Setup Continuous Integration, i.e. check code for issues like lint errors
 
-[![lint-checkpass]![Build Successful](image.png)
+![Lint Build Successful](image.png)
 5. Build cli using Python Fire library  ./cli-fire.py --help to test logic
