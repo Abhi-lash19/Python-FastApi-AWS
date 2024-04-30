@@ -1,5 +1,5 @@
 [![Python application test with Github Actions](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml/badge.svg)](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml)
-
+[![Python application test with Github Actions]https://ap-south-1.console.aws.amazon.com/codesuite/codebuild/950776050005/projects/DeployFastAPIWiki/build/DeployFastAPIWiki%3A562b350a-0e61-47c9-94a4-e460f117bf8f?region=ap-south-1
 
 
 
