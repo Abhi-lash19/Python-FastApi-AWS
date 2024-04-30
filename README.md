@@ -14,3 +14,9 @@ This is a repository of my new Project where i will be working with Python , Fas
 ![Lint Build Successful](image.png)
 
 5. Build cli using Python Fire library  `./cli-fire.py wiki --help` to test logic example `./cli-fire.py wiki --length 10`
+
+
+![5-10-ecr-workflow](https://user-images.githubusercontent.com/58792/163280392-1de7f99a-221b-439b-b970-e84c67091ee4.png)
+
+![AppRunner-Deploy](https://github.com/Abhi-lash19/Python-FastApi-AWS/assets/114879092/ba3fe631-8e66-4913-82a9-83fa2d78387f)
+
