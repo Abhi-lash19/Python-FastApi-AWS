@@ -1,6 +1,5 @@
 [![Python application test with Github Actions](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml/badge.svg)](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml)
-
-[![Python application test with AWS Actions](https://codebuild.ap-south-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNnlwMFNQbzVhOGxrNk5tcXdrWEFPL1dhaWZZQ1ZiVVFZMTNkK3dTd21MaFE4ZUh0dkVHaUNJSHBWNmNOK0dZWHBRZHJvM2RYV1B4Tm9XSGQ3emo0bGRNPSIsIml2UGFyYW1ldGVyU3BlYyI6Im1lUGhHSnZxUUEvQ2dCWTkiLCJtYXRlcmlhbFNldFNlcmlhbCI6Mn0%3D&branch=main)
+![Python application test with AWS Actions](https://codebuild.ap-south-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNnlwMFNQbzVhOGxrNk5tcXdrWEFPL1dhaWZZQ1ZiVVFZMTNkK3dTd21MaFE4ZUh0dkVHaUNJSHBWNmNOK0dZWHBRZHJvM2RYV1B4Tm9XSGQ3emo0bGRNPSIsIml2UGFyYW1ldGVyU3BlYyI6Im1lUGhHSnZxUUEvQ2dCWTkiLCJtYXRlcmlhbFNldFNlcmlhbCI6Mn0%3D&branch=main)
 
 
 # Python-FastApi-AWS
