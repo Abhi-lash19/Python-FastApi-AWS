@@ -1,6 +1,5 @@
 [![Python application test with Github Actions](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml/badge.svg)](https://github.com/Abhi-lash19/Python-FastApi-AWS/actions/workflows/devops.yml)
-[![Python application test with Github Actions]https://ap-south-1.console.aws.amazon.com/codesuite/codebuild/950776050005/projects/DeployFastAPIWiki/build/DeployFastAPIWiki%3A562b350a-0e61-47c9-94a4-e460f117bf8f?region=ap-south-1
-
+[![Python application test with Github Actions]https://codebuild.ap-south-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNnlwMFNQbzVhOGxrNk5tcXdrWEFPL1dhaWZZQ1ZiVVFZMTNkK3dTd21MaFE4ZUh0dkVHaUNJSHBWNmNOK0dZWHBRZHJvM2RYV1B4Tm9XSGQ3emo0bGRNPSIsIml2UGFyYW1ldGVyU3BlYyI6Im1lUGhHSnZxUUEvQ2dCWTkiLCJtYXRlcmlhbFNldFNlcmlhbCI6Mn0%3D&branch=main
 
 
 # Python-FastApi-AWS
