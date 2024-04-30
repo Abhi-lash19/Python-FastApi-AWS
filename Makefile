@@ -23,4 +23,9 @@ run:
 	docker run -p 127.0.0.1:8080:8080 30c8742a6c9c
 deploy:
 	#deploy
-all: install format lint test deploy
+	aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin 950776050005.dkr.ecr.ap-south-1.amazonaws.com
+	docker build -t fastapi-python-wiki .
+	docker tag fastapi-python-wiki:latest 950776050005.dkr.ecr.ap-south-1.amazonaws.com/fastapi-python-wiki:latest
+	docker push 950776050005.dkr.ecr.ap-south-1.amazonaws.com/fastapi-python-wiki:latest
+
+all: install post-install lint test deploy
